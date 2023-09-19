@@ -1,5 +1,7 @@
 # Project Title
 
+Andy Shen
+
 ## Data Overview
 This project used data from the titanic dataset to analyze survival rates.
 [google here](google.com)
