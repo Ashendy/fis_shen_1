@@ -18,3 +18,5 @@ This project used data from the titanic dataset to analyze survival rates.
 ## Model
 
 ## Recommendations 
+
+## Other info
